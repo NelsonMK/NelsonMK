@@ -8,6 +8,8 @@ Software Developer
 * 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [nelsonmuriithi5@gmail.com](mailto:nelsonmuriithi5@gmail.com )
 
+![](https://komarev.com/ghpvc/?username=NelsonMK&style=flat)
+
 ### Skills
 
 <p align="left">
